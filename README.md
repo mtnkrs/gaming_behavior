@@ -71,7 +71,7 @@ The analysis shows that the most important features influencing the model's pred
 3. AchievementsUnlocked
 4. PlayerLevel
 5. PlayTimeHours
-6. 
+
 These features have the highest importance values and significantly impact the model's performance.
 
 The feature importance for the best-performing model, Light Gradient Boosting Machine (LightGBM), is visualized below:
