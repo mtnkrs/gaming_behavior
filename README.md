@@ -33,6 +33,7 @@ This dataset captures comprehensive metrics and demographics related to player b
 - **EngagementLevel:** Indicates the level of player engagement categorized as 'High', 'Medium', or 'Low
 
 #### Potential Applications
+
 - Predictive modeling of player retention and engagement patterns.
 - Analysis of factors influencing player behavior and game performance.
 - Optimization of game design, marketing strategies, and player experience enhancements.
@@ -47,6 +48,7 @@ We use the following six classifier models to predict player behavior:
 - Decision Tree Classifier
 - K-Nearest Neighbors (KNN)
 - Light Gradient Boosting Machine (LGBM)
+- 
 Each model is evaluated to determine its efficiency in predicting player behavior, and the best-performing model is selected based on various performance metrics.
 
 ## **Installation**
@@ -69,6 +71,7 @@ The analysis shows that the most important features influencing the model's pred
 3. AchievementsUnlocked
 4. PlayerLevel
 5. PlayTimeHours
+6. 
 These features have the highest importance values and significantly impact the model's performance.
 
 The feature importance for the best-performing model, Light Gradient Boosting Machine (LightGBM), is visualized below:
