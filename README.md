@@ -1,7 +1,7 @@
 # **Player Behavior Prediction in Gaming Dataset**
-
-This project focuses on predicting player behavior in a gaming dataset using six different classifier models. Our primary goal is to find the most efficient model and understand which aspects of player data most significantly influence the model's predictions by analyzing the importance of various features.
 -------------------------------
+This project focuses on predicting player behavior in a gaming dataset using six different classifier models. Our primary goal is to find the most efficient model and understand which aspects of player data most significantly influence the model's predictions by analyzing the importance of various features.
+
 
 ## **Introduction**
 
